@@ -39,6 +39,7 @@ ENV/
 *.env
 .envrc
 
+gitleaks_summary.md
 
 # Docker
 docker-compose.override.yml
